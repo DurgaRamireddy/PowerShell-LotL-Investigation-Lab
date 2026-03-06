@@ -111,7 +111,7 @@ This lab strengthened my skills in incident investigation, log correlation, and 
 
 ## Author
 Durga Sai Sri Ramiredy </br>
-Master's in Cybersecurity </br>
+Master's student - Cybersecurity </br>
 University Of Houston
 
 *This project was developed as part of academic coursework and expanded for cybersecurity portfolio demonstration.*
