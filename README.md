@@ -140,5 +140,5 @@ This attack used zero custom exploitation tools - only native Windows utilities.
 > This investigation was performed in a controlled lab environment using simulated event data. Developed as part of academic coursework and expanded for cybersecurity portfolio demonstration.
 
 **Author:** Durga Sai Sri Ramireddy | MS Cybersecurity, University of Houston  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/durgaramireddy)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/durga-ramireddy)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DurgaRamireddy)
